@@ -138,9 +138,9 @@ export default {
   font-weight: bold !important;
 }
 .DevelopmentText {
-  color: #525252;
-  font-size: 64px;
-  font-weight: bold;
+  color: #525252 !important;
+  font-size: 64px !important;
+  font-weight: bold !important;
 }
 .ApplicationText {
   color: #39b54a;
