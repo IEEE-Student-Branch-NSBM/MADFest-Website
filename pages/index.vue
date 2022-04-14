@@ -133,9 +133,9 @@ export default {
   direction: rtl !important;
 }
 .MobileText {
-  color: #19589d;
-  font-size: 64px;
-  font-weight: bold;
+  color: #19589d !important;
+  font-size: 64px !important;
+  font-weight: bold !important;
 }
 .DevelopmentText {
   color: #525252;
