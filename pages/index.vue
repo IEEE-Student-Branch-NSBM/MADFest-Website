@@ -131,26 +131,31 @@ export default {
   text-align: right !important;
   text-align-last: right !important;
   direction: rtl !important;
+  font-family: Poppins, sans-serif !important;
 }
 .MobileText {
   color: #19589d !important;
   font-size: 64px !important;
   font-weight: bold !important;
+  font-family: Poppins, sans-serif !important;
 }
 .DevelopmentText {
   color: #525252 !important;
   font-size: 64px !important;
   font-weight: bold !important;
+  font-family: Poppins, sans-serif !important;
 }
 .ApplicationText {
-  color: #39b54a;
-  font-size: 64px;
-  font-weight: bold;
+  color: #39b54a !important;
+  font-size: 64px !important;
+  font-weight: bold !important;
+  font-family: Poppins, sans-serif !important;
 }
 .CompetitionText {
-  color: #19589d;
-  font-size: 40px;
-  font-weight: 500;
+  color: #19589d !important;
+  font-size: 40px !important;
+  font-weight: 500 !important;
+  font-family: Poppins, sans-serif !important;
 }
 .button-2 {
   padding: 1rem 3rem;
