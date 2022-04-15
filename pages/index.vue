@@ -16,7 +16,7 @@
                   src="Assets/Home/Header.png"
               /></v-flex>
             </v-layout>
-            <!-- <lottie-animation path="Assets/Home/whatIsMadFest.json" :width="450"/> -->
+            <lottie-animation path="Assets/Home/whatIsMadFest.json" :width="450"/>
           </v-col>
           <v-col class="px-10 align-right HeaderText">
             <div class="pa-0 MobileText">Mobile</div>
