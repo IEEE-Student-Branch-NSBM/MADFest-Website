@@ -6,18 +6,19 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "prepare": "husky install"
   },
   "dependencies": {
     "core-js": "^3.15.1",
     "nuxt": "^2.15.7",
+    "vue2-flip-countdown": "^0.12.1",
     "vuetify": "^2.5.5"
   },
   "devDependencies": {
     "@nuxt/image": "^0.6.2",
     "@nuxt/types": "~2.15.0",
-    "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/vuetify": "^1.12.3",
-    "@nuxtjs/web-vitals": "^0.1.8"
+    "husky": "^7.0.4"
   }
 }
