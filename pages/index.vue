@@ -22,7 +22,6 @@
             <div class="pa-0 pb-8 CompetitionText">
               Competition <i class="mx-1"> &amp </i> Exhibition
             </div>
-
             <div class="hidden-xs-only">
               <client-only>
                 <flip-countdown deadline="2022-06-25 00:00:00"></flip-countdown>
@@ -41,7 +40,8 @@
           <button class="button-2" role="button">
             <span>Register Now</span>
           </button>
-        </div><!-- only shows when xs -->
+        </div>
+        <!-- only shows when xs -->
       </v-container>
     </v-sheet>
     <v-sheet color="#19589D" class="pt-8 pb-8 text-right" id="about">
@@ -120,10 +120,10 @@ html {
   scroll-behavior: smooth;
 }
 
-#home{
-  height:100vh;
+#home {
+  height: 100vh;
 }
-#home .container{
+#home .container {
   margin-top: 5vh !important;
 }
 
@@ -219,17 +219,14 @@ html {
   margin-top: 4px !important;
 }
 
-
 @media only screen and (max-width: 499px) {
-
-  #about .container{
+  #about .container {
     width: 90%;
-
   }
 
-  .flip-card{
-    font-size: 2.0rem !important;
-    margin-left:2px !important;
+  .flip-card {
+    font-size: 2rem !important;
+    margin-left: 2px !important;
   }
 
   .flip-clock__slot {
@@ -241,12 +238,13 @@ html {
     text-align-last: left !important;
   }
 
-
   .cardTitle {
     font-size: 25px !important;
   }
 
-  .MobileText , .ApplicationText , .DevelopmentText {
+  .MobileText,
+  .ApplicationText,
+  .DevelopmentText {
     font-size: 40px;
   }
 
