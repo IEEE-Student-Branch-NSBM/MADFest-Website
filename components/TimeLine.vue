@@ -73,8 +73,8 @@ export default {
          {
           title: "Award Ceremony",
           year: "27 / 07 / 2022",
-          color:"#19589d",
-          dotColor:"#19589d"
+           color:"#8dc63f",
+          dotColor:"#8dc63f"
         },  
       ],
     };
