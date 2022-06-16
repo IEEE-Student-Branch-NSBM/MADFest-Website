@@ -37,32 +37,45 @@ export default {
       tasks: [
         {
           title: "Registration Opening",
-          year: "06 / 04 / 2022",
+          year: "16 / 06 / 2022",
           color:"#8dc63f",
           dotColor:"#8dc63f"
         },
         {
-          title: "Registration Opening",
-          year: "06 / 04 / 2022",
+          title: "Registration Closing",
+          year: "28 / 06 / 2022",
           color:"#19589d",
           dotColor:"#19589d"
         },        {
-          title: "Registration Opening",
-          year: "06 / 04 / 2022",
+          title: "Awareness & Preparation Session I",
+          year: "13 / 07 / 2022",
           color:"#8dc63f",
           dotColor:"#8dc63f"
         },
         {
-          title: "Registration Opening",
-          year: "06 / 04 / 2022",
+          title: "Awareness & Preparation Session II",
+          year: "14 / 07 / 2022",
           color:"#19589d",
           dotColor:"#19589d"
-        },        {
-          title: "Registration Opening",
-          year: "06 / 04 / 2022",
+        },        
+        {
+          title: "Submission Open",
+          year: "15 / 07 / 2022",
           color:"#8dc63f",
           dotColor:"#8dc63f"
         },
+         {
+          title: "Submission Closed",
+          year: "20 / 07 / 2022",
+          color:"#19589d",
+          dotColor:"#19589d"
+        },  
+         {
+          title: "Award Ceremony",
+          year: "27 / 07 / 2022",
+           color:"#8dc63f",
+          dotColor:"#8dc63f"
+        },  
       ],
     };
   },

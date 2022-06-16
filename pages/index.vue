@@ -26,7 +26,7 @@
               <client-only>
                 <flip-countdown deadline="2022-06-25 00:00:00"></flip-countdown>
               </client-only>
-              <a href="https://forms.gle/qtrDRgyiHXYjD2vU9" target="_blank">
+              <a href="https://forms.gle/qtrDRgyiHXYjD2vU9">
                 <button class="button-2" role="button">
                   <span>Register Now</span>
                 </button>
