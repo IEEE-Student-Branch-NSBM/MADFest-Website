@@ -3,7 +3,7 @@
     <v-sheet color="#ffffff" class="text-center" id="home">
       <v-container>
         <v-row align="center" no-gutters class="mt-8">
-          <v-col cols="12" sm="6" order-sm="first" class="hidden-xs-only">
+          <v-col cols="12" sm="6" class="hidden-xs-only">
             <v-layout justify-center align-center>
               <v-flex shrink>
                 <v-img
@@ -15,7 +15,7 @@
               </v-flex>
             </v-layout>
           </v-col>
-          <v-col class="px-8 HeaderText" cols="12" sm="6" order-sm="last">
+          <v-col class="px-8 HeaderText" cols="12" sm="6">
             <div class="pa-0 MobileText">Mobile</div>
             <div class="pa-0 ApplicationText">Application</div>
             <div class="pa-0 DevelopmentText">Development</div>
