@@ -26,18 +26,20 @@
               <client-only>
                 <flip-countdown deadline="2022-06-25 00:00:00"></flip-countdown>
               </client-only>
-              <button class="button-2" role="button">
-                <span>Register Now</span>
-              </button>
+              <a href="https://forms.gle/qtrDRgyiHXYjD2vU9" target="_blank">
+                <button class="button-2" role="button">
+                  <span>Register Now</span>
+                </button>
+              </a>
             </div>
           </v-col>
         </v-row>
 
         <div class="hidden-sm-and-up">
           <client-only>
-            <flip-countdown deadline="2022-06-25 00:00:00"></flip-countdown>
+            <flip-countdown deadline="2022-06-28 00:00:00"></flip-countdown>
           </client-only>
-          <button class="button-2" role="button">
+          <button class="button-2" role="button" onclick="">
             <span>Register Now</span>
           </button>
         </div>
