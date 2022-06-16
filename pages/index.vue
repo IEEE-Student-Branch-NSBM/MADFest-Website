@@ -84,7 +84,7 @@
           <v-col cols="12" sm="4" class="d-flex justify-center align-center">
             <v-icon color="white" size="35" class="mr-2 mb-2"
               >mdi-calendar-month-outline</v-icon
-            >25 of May 2022
+            >27 of July 2022
           </v-col>
           <v-col cols="12" sm="4" class="d-flex justify-center align-center"
             ><v-icon color="white" size="35" class="mr-2 mb-1"
